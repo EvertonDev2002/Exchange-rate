@@ -1,4 +1,4 @@
-# Exchange Project
+# Exchange Rate
 
 Este projeto fornece um serviço simples para obter taxas de câmbio usando uma API externa. Ele utiliza as bibliotecas `Gson` para parse de JSON e `dotenv` para carregar variáveis de ambiente. O serviço consulta a API de câmbio e retorna as taxas de câmbio para uma moeda base fornecida.
 
@@ -15,7 +15,7 @@ Este projeto fornece um serviço simples para obter taxas de câmbio usando uma 
   ```
 2. Navegue até o diretório do projeto:
   ```bash
-  cd exchange
+  cd Exchange-rate
   ```
 ## Interação via Console
 
