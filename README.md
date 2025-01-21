@@ -11,7 +11,7 @@ Este projeto fornece um serviço simples para obter taxas de câmbio usando uma 
 
 1. Clone o repositório:
   ```bash
-  git clone https://github.com/seu-usuario/exchange.git
+  git clone git@github.com:EvertonDev2002/Exchange-rate.git
   ```
 2. Navegue até o diretório do projeto:
   ```bash
